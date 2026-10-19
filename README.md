@@ -18,12 +18,12 @@ Read the [architecture](docs/architecture.md) or explore the short excerpts: [sn
 
 ## Interface gallery
 
-**All images are visibly labeled source-based concepts with synthetic data.** They are static browser-rendered composites, not live application or Android device screenshots. Original styles and source-informed layouts are retained; neutral artwork replaces photography and image logos, and system fonts replace external web fonts. See [visual provenance](screenshots/README.md).
+**The first two images are owner-approved real Lumévia brand/project images.** The owner confirmed full rights and permission to use and publish them in this portfolio showcase. The remaining four images retain their source-based concept classification and visible synthetic-data labels; they are static browser-rendered composites, not live application or Android device screenshots. Those concepts use neutral artwork and system-font substitutes. See [visual provenance](screenshots/README.md).
 
 | Public website | Product / ingredients |
 | --- | --- |
 | [![Desktop homepage](screenshots/01-desktop-homepage.png)](screenshots/01-desktop-homepage.png) | [![Product and ingredients](screenshots/02-product-ingredients.png)](screenshots/02-product-ingredients.png) |
-| Desktop hero and Arabic RTL presentation. | Product details with generic illustrative ingredient labels. |
+| Owner-approved real homepage image with Lumévia branding. | Owner-approved real product/ingredients image. |
 
 | Responsive website | Android administration concept |
 | --- | --- |
@@ -41,6 +41,6 @@ This showcase documents implementation found in the private local source. Live d
 
 **Authorization limitation:** Storage media writes currently require authentication, not active-admin membership. Firestore separately restricts media attachment to active admins. Android App Check is preparation only. See the [architecture limitations](docs/architecture.md#authorization-limitations).
 
-The original application source remains private. This showcase contains documentation, limited excerpts and curated visuals for portfolio review. Brand and interface-design publication permission remain unverified. See [rights](RIGHTS.md) and the [local verification record](docs/verification.md).
+The original application source remains private. This showcase contains documentation, limited excerpts and curated visuals for portfolio review. The owner confirmed publication rights for the two supplied brand/project images; other material retains the rights status documented separately. See [rights](RIGHTS.md) and the [local verification record](docs/verification.md).
 
 Developer: [MuhammedR21](https://github.com/MuhammedR21). Repository existence and visibility were not verified during local preparation.

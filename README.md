@@ -23,7 +23,7 @@ Read the [architecture](docs/architecture.md) or explore the short excerpts: [sn
 | Public website | Product / ingredients |
 | --- | --- |
 | [![Desktop homepage](screenshots/01-desktop-homepage.png)](screenshots/01-desktop-homepage.png) | [![Product and ingredients](screenshots/02-product-ingredients.png)](screenshots/02-product-ingredients.png) |
-| Owner-approved real homepage image with Lumévia branding. | Owner-approved real product/ingredients image. |
+|  real homepage image with Lumévia branding. |  real product/ingredients image. |
 
 | Responsive website | Android administration concept |
 | --- | --- |
